@@ -35,3 +35,4 @@ When the route changes, the todo list should be filtered and the selected class 
 <p>App should have “share” button. Add it anywhere to a page. When clicking on it a popup should appear with a textarea containing some link (<code>#/share/XXX</code>). You should somehow encode whole app state in url. When opening this url app should redirect you to the root route and restore state from the link. Don’t forget to add possibility to close the popup.</p>
 <h3>Links:</h3>
 <p><a href="https://github.com/tastejs/todomvc-app-template">Template</a></p>
+If you would like to see this app in action you can follow this <a href="https://inlighter.github.io/Portfolio/TODO/">Demo link</a>.
